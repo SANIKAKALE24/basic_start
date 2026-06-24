@@ -1,2 +1,2 @@
 # basic_start
-my first git project
+my first git repository!

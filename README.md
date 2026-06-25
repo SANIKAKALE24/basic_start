@@ -1,2 +1,2 @@
-# basic_start
+# Bizstock
 my first git repository!
